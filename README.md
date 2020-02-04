@@ -34,4 +34,3 @@
 
 * email: dmtr.makarenko@gmail.com
 * telegram: https://t.me/d_makarenko
-* группа в telegram: https://t.me/joinchat/CXJNmEdB9L03wSmvj0iSEw
